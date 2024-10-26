@@ -949,18 +949,7 @@ body::before {
   z-index: 0;
   width: 100%;
   height: 100%;
-  background: url("https://ts1.cn.mm.bing.net/th/id/R-C.dbeec56c40a11e2d565924419d09bd0d?rik=nKQu9UEzdcc0fQ&riu=http%3a%2f%2fimg.pconline.com.cn%2fimages%2fphotoblog%2f5%2f4%2f7%2f3%2f5473189%2f20079%2f22%2f1190457784500.jpg&ehk=W05yy%2fpka%2fE1IZtQAHQ1056Xxe1zHoqWfVNk1NNUFig%3d&risl=&pid=ImgRaw&r=0") no-repeat center/cover;
-}
-.header-banner::before {
-  content: '';
-  display: block;
-  position: absolute;
-  top: 0;
-  left: 0;
-  z-index: -1;
-  width: 100%;
-  height: 100%;
-  background-color: rgba(0,0,0,0.1);
+  background: url("https://imgs.todaybing.com/5d6d313d27a2ca704f63baa3b4861bbe.webp") no-repeat center/cover;
 }
 .header-banner-info {
   position: absolute;
